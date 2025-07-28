@@ -8,3 +8,6 @@ If the user successfully guesses the number within the given attempts, a congrat
 The entire interface is built using **Java AWT components** like `Frame`, `Label`, `TextField`, and `Button`. Event handling is managed using `ActionListener`, providing a smooth and responsive interaction between the user and the application. This project helped me strengthen my understanding of **GUI design in Java**, **event-driven programming**, and implementing **game logic** within a structured and user-friendly interface.
 
 This game can serve as a beginner-friendly project for those exploring Java GUI development. 
+
+<img width="726" height="580" alt="Screenshot 2025-07-28 143254" src="https://github.com/user-attachments/assets/4dd8fa80-0d11-4ef6-a3fb-6562d8f7632c" />
+

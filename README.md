@@ -9,5 +9,18 @@ The entire interface is built using **Java AWT components** like `Frame`, `Label
 
 This game can serve as a beginner-friendly project for those exploring Java GUI development. 
 
-<img width="726" height="580" alt="Screenshot 2025-07-28 143254" src="https://github.com/user-attachments/assets/4dd8fa80-0d11-4ef6-a3fb-6562d8f7632c" />
+<img width="724" height="588" alt="Screenshot 2025-07-28 143136" src="https://github.com/user-attachments/assets/9db95cb1-6e54-46ed-b993-7b506bb7c56e" />
+<img width="725" height="583" alt="Screenshot 2025-07-28 143150" src="https://github.com/user-attachments/assets/33d32c80-818d-4596-9dca-c5eb6dfcd29d" />
+<img width="729" height="581" alt="Screenshot 2025-07-28 143203" src="https://github.com/user-attachments/assets/6e3738c7-d0c6-45b9-b8a3-5cbe2f11b863" />
+<img width="725" height="582" alt="Screenshot 2025-07-28 143217" src="https://github.com/user-attachments/assets/f2780407-9fcb-4555-847c-9bb3eac77e9a" />
+<img width="729" height="581" alt="Screenshot 2025-07-28 143230" src="https://github.com/user-attachments/assets/1bc8faee-23f5-4248-a713-a43a9e462d14" />
+<img width="726" height="580" alt="Screenshot 2025-07-28 143254" src="https://github.com/user-attachments/assets/38f4d4d4-d6ee-47c7-9787-3593530a7235" />
+<img width="717" height="576" alt="Screenshot 2025-07-28 143302" src="https://github.com/user-attachments/assets/c85c4f84-138d-4333-bfef-4a7d049003cf" />
+
+
+
+
+
+
+
 
